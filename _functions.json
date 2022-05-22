@@ -1,0 +1,10 @@
+[
+    {
+        "functionRoute": "hello-world",
+        "pluginName": "default-site-plugin",
+        "originalAbsoluteFilePath": "C:/Users/lagrange/Desktop/blog-master/src/api/hello-world.js",
+        "originalRelativeFilePath": "hello-world.js",
+        "relativeCompiledFilePath": "hello-world.js",
+        "absoluteCompiledFilePath": "C:\\Users\\lagrange\\Desktop\\blog-master\\.cache\\functions\\hello-world.js"
+    }
+]
